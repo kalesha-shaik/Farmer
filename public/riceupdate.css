@@ -1,0 +1,29 @@
+.hai{
+    margin-top: 20px;
+    margin-right: 100px;
+    background-image: url(http://4.bp.blogspot.com/-CpExHC3bW2k/TpR-_XPgwxI/AAAAAAAAAOg/yLnqIJEd5dU/s0-d/90633621.jpg);
+    margin-left: 100px;
+    width: 1313px;
+    height: 700px;
+}
+
+.form{
+    margin-top: 90px;
+    border-radius: 12px;
+    margin-left: 69px;
+    background-color: antiquewhite;
+    text-align: center;
+    height: 524px;
+    width: 438px;
+    padding: 55px;
+}
+.texo{
+    width: 194px;
+    margin-right: 10px;
+    height: 41px;
+}
+.fon{
+    margin-left: 216px;
+    font-family: cursive;
+    color: blanchedalmond;
+}

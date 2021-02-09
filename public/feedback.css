@@ -1,0 +1,34 @@
+.hai{
+    margin-top: 20px;
+    margin-right: 100px;
+    background-image: url(http://4.bp.blogspot.com/-CpExHC3bW2k/TpR-_XPgwxI/AAAAAAAAAOg/yLnqIJEd5dU/s0-d/90633621.jpg);
+    margin-left: 100px;
+    /* background-size: cover; */
+    /* background-repeat: repeat; */
+    width: 1313px;
+    height: 650px;
+}
+.ff{
+    font-style: oblique;
+    margin-left: 439px;
+    margin-top: 39px;
+    font-family: cursive;
+    color: blanchedalmond;
+}
+.ii{
+    margin-left: 320px;
+    margin-top: 88px;
+}
+.last{
+    text-align: center;
+    width: 1313px;
+    background-color: black;
+    color: aliceblue;
+    margin-left: 100px;
+}
+
+.btnn{
+    margin-top: 49px;
+    margin-left: 86px;
+    border-radius: 6px;
+}

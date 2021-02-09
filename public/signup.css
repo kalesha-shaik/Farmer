@@ -1,0 +1,139 @@
+.hai{
+    margin-top: 20px;
+    margin-right: 100px;
+    background-image: url(http://4.bp.blogspot.com/-CpExHC3bW2k/TpR-_XPgwxI/AAAAAAAAAOg/yLnqIJEd5dU/s0-d/90633621.jpg);
+    margin-left: 100px;
+    width: 1313px;
+}
+.head-img{
+    height: 100px;
+    width: 150px;
+}
+.heading1{
+    margin-top: 10px;
+    text-align: center;
+    color: coral;
+    font-family: cursive;
+}
+.heading2{
+    margin-top: 10px;
+    text-align: center;
+    color:blue;
+}
+.head-top{
+    background-image: url(https://th.bing.com/th/id/OIP.Q6DvkdbJl1n4Vh4isE-GdwHaKL?pid=Api&rs=1);
+    background-size: contain;
+    /* background-image: url(https://th.bing.com/th/id/OIP.WD_8FmgtlU6Z-UeHl0tJ9wHaEo?pid=Api&rs=1); */
+    /* background-color: black; */
+}
+.head-contact{
+    background-image: url(https://th.bing.com/th/id/OIP.Q6DvkdbJl1n4Vh4isE-GdwHaKL?pid=Api&rs=1);
+    color: black;
+    margin-left: 190px;
+}
+.fontt{
+    font-family: -webkit-pictograph;
+    font-size: 17px;
+}
+/* .middle{
+    text-align: center;
+    color:red;
+    height: 100px;
+    background-image: flex;
+    background-image: url(https://catalystinspiration.files.wordpress.com/2013/09/buyer.jpeg);
+    background-color:black ;
+} */
+/* .both-login{
+    /* background-image: url(https://blog.hdwallsource.com/wp-content/uploads/2016/03/farm-wallpaper-16687-17226-hd-wallpapers.jpg); */
+    /* margin-left: 100px;
+    margin-right: 100px; */
+    /* background-color: rgba(255, 255, 255, 0.801);
+    height: 510px;
+} */ 
+.farmer-img{
+    margin-left: 337px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+.farmer-form{
+    margin-left: 200px;
+    text-align:center;
+    border-radius: 20px;
+    margin-top: 100px;
+    height: 420px;
+    width: 450px;
+    background-color: burlywood;
+}
+
+.buyer-form{
+    margin-right: 300px;
+    text-align:center;
+    border-radius: 20px;
+    margin-top: 100px;
+    height: 420px;
+    width: 450px;
+    background-color: burlywood;
+}
+.buyer-img {
+    margin-top: -47px;
+    margin-left: 6px;
+    height: 122px;
+    width: 125px;
+    border-radius: 73px;
+}
+/* .last{
+    height: 30px;
+    margin-top: -16px;
+    text-align: center;
+    background-color: rgb(230, 30, 196);
+} */
+.names1{
+    margin-right: 20px;
+}
+.names2{
+    margin-right: 20px;
+}
+.names3{
+    margin-right: 20px;
+}
+.names4{
+    margin-right: 20px;
+}
+
+input{
+    border-radius: transparent;
+    border-radius: 10px;
+}
+.name{
+    margin-right: 5px;
+}
+.mail{
+    margin-right: 13px;;
+}
+.pass{
+    margin-right: 27px;
+}
+.butn{
+    width: 321px;
+    height: 39px;
+}
+/* .haii{
+    height: 5px;
+    background-color: brown;
+}
+.las{
+    height: 5px;
+    background-color: green;
+} */
+/* .lastt{
+    margin-top: 90px;
+} */
+
+.last{
+    color: aliceblue;
+    height: 35px;
+    text-align: center;
+    width: 1313px;
+    background-color:black;
+}

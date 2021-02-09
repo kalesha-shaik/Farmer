@@ -1,0 +1,38 @@
+.hai{
+    /* margin-top: 20px; */
+    margin-right: 100px;
+    background-image: url(http://4.bp.blogspot.com/-CpExHC3bW2k/TpR-_XPgwxI/AAAAAAAAAOg/yLnqIJEd5dU/s0-d/90633621.jpg);
+    margin-left: 100px; 
+    width: 1313px;
+}
+.card1{
+    margin-left: 128px;
+    margin-top: 23px;
+}
+.card2{
+    margin-top: 23px;
+    margin-left: 66px;
+}
+.card3{
+    margin-top: 23px;
+}
+.card4{
+    margin-left: 128px;
+    margin-top: 23px;
+}
+.card5{
+    margin-top: 23px;
+    margin-left: 66px;
+}
+.card6{
+    margin-top: 23px;
+}
+
+.log{
+    margin-left: 73px;
+    margin-top: 28px;
+    border-radius: 22px;
+    height: 52px;
+    width: 118px;
+}
+

@@ -1,0 +1,49 @@
+body{
+    background-color:aqua;
+}
+.hai{
+    margin-top: 20px;
+    margin-right: 100px;
+    background-image: url(http://4.bp.blogspot.com/-CpExHC3bW2k/TpR-_XPgwxI/AAAAAAAAAOg/yLnqIJEd5dU/s0-d/90633621.jpg);
+    margin-left: 100px;
+    width: 1313px;
+}
+
+.btnin{
+    margin-left: 131px;
+    margin-top: 10px;
+    border-radius: 31px;
+    width: 146px;
+}
+.prod{
+    margin-left: 50px;
+    text-align: center;
+    font-size: xx-large;
+    font-family: cursive;
+    color: red;
+}
+.prod1{
+    margin-right: 46px;
+    text-align: center;
+    font-size: xx-large;
+    font-family: cursive;
+    color: blue;
+}
+.prod2{
+    margin-left: 65;
+    text-align: center;
+    font-size: xx-large;
+    font-family: cursive;
+    color: blue;
+}
+.prod3{
+    margin-left: 65;
+    text-align: center;
+    font-size: xx-large;
+    font-family: cursive;
+    color: blue;
+}
+.btnind{
+    width: 192px;
+    margin-left: 610px;
+}

@@ -1,0 +1,87 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="bootstrap.css">
+        <link rel="stylesheet" href="rice.css">
+    </head>
+    <body>
+        <div class="hai">
+        <div class="row">
+            <div class="col-md-6">
+                <h1 style="text-align: center;">Prdoucts</h1>
+            </div>
+            <div class="col-md-3">
+                <form action="/dashforbuy" method="GET">
+                    <button class="btn btn-success btnin">Go to dashboard</button>
+                </form>
+            </div>
+            <div class="col-md-3">
+                <form action="/logout" method="GET">
+                <button class="btn btn-primary btnin">Logout</button>
+                </form>
+            </div>
+        </div> 
+        <% for(var i=0; i<data.length ; i++){ %>
+            <div class="card">
+                <h5 class="card-header"><%= data[i].name %></h5>
+                <div class="card-body">
+                    <h5 class="card-title">Click below and Contact With <%= data[i].name %></h5>
+                    <p class="card-text">
+                        <h4 class="prod">
+                            Name : <%= data[i].name %> <br>
+                        </h4>
+                        <h4 class="prod">
+                            Phn No : <%= data[i].number %> <br>
+                        </h4>
+                    <h4 class="prod">
+                        Quantity : <%= data[i].quantity %> Kg<br>
+                    </h4>
+                    <h4 class="prod1">
+                        Cost : <%= data[i].cost %> Rupees<br>
+                    </h4>
+                    <h4 class="prod2">
+                        Expire Date : <%= data[i].date %> <br> <br>
+                    </h4>
+                    <form action="/contact" method="GET">
+                        <button class="btn btn-primary btnind">More</button>
+                    </form>
+                    </h4></p>
+                </div>
+            </div>
+        <% }%> 
+    </div>      
+    </body>
+</html>
+
+
+
+
+
+<!-- <% for(var i=0; i<data.length ; i++){ %>
+    <div class="card">
+        <h5 class="card-header">Featured</h5>
+        <div class="card-body">
+          <h5 class="card-title">Special title treatment</h5>
+          <p class="card-text">
+            Name :  <%= data[i].name %> <br>
+            Quantity : <%= data[i].quantity %> <br>
+            Cost : <%= data[i].cost %> <br>
+            Number : <%= data[i].number %> <br>
+            Date : <%= data[i].date %> <br> <br> <br>
+          <a href="#" class="btn btn-primary">Go somewhere</a>
+        </div>
+      </div>
+      <% }%></p> -->
+
+  <!-- <div class="row">
+    <div class="col-md-6">
+        <div class="riceform">
+            <% for(var i=0; i<data.length ; i++){ %>
+                Name :  <%= data[i].name %> <br>
+                Quantity : <%= data[i].quantity %> <br>
+                Cost : <%= data[i].cost %> <br>
+                Number : <%= data[i].number %> <br>
+                Date : <%= data[i].date %> <br> <br> <br>
+            <% }%>
+        </div>
+    </div>
+</div> -->
